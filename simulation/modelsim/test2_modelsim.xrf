@@ -1,0 +1,7 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/EWERTON/Documents/Programação/Hardware Design/Model Logic Gates2/test2.bdf
+source_file = 1, C:/Users/EWERTON/Documents/Programação/Hardware Design/Model Logic Gates2/db/test2.cbx.xml
+design_name = test2
+instance = comp, \O~output\, O~output, test2, 1
+instance = comp, \B~input\, B~input, test2, 1
+instance = comp, \A~input\, A~input, test2, 1
